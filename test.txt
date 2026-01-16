@@ -1,0 +1,1 @@
+now Iam going to add new branch in git branch is isolated so i have to merge by calling push
